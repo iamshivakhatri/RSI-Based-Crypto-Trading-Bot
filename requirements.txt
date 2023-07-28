@@ -1,0 +1,3 @@
+websocket_client
+numpy
+TA-Lib
